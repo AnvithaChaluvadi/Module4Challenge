@@ -1,6 +1,10 @@
 #### Module 4 Challenge: A Whale off the Port(folio)
 ##### Anvitha Chaluvadi
 
+<p align="center">
+<img src = Images/analysis.gif width =40% height 30%=/>
+</p>
+
 ### Background
 You have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
